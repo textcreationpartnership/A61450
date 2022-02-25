@@ -1,0 +1,198 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The true English government, and mis-government of the four last kings, with the ill consequences thereof, briefly noted in two little tracts</title>
+            <author>Stephens, Edward, d. 1706.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1689</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 18 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A61450</idno>
+            <idno type="STC">Wing S5445</idno>
+            <idno type="STC">ESTC R15709</idno>
+            <idno type="EEBO-CITATION">11926338</idno>
+            <idno type="OCLC">ocm 11926338</idno>
+            <idno type="VID">51032</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A61450)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 51032)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 515:23)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The true English government, and mis-government of the four last kings, with the ill consequences thereof, briefly noted in two little tracts</title>
+                  <author>Stephens, Edward, d. 1706.</author>
+               </titleStmt>
+               <extent>[4], 8 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London printed :</pubPlace>
+                  <date>1689.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Attributed to Edward Stephens (Socrates Christianus).  Cf. Halkett &amp; Laing (2nd ed.)</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church and state --  England.</term>
+               <term>Great Britain --  Politics and government --  1603-1714.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:51032:1"/>
+            <!-- PDF PAGE 98 -->
+            <p>THE True Engliſh Government, AND MIS-GOVERNMENT Of the Four laſt KINGS, WITH The ill CONSEQUENCES thereof, Briefly noted in Two little Tracts.</p>
+            <p>
+               <hi>Exurgat DE<g ref="char:V">Ʋ</g>S, &amp; diſſipentur Inimici ejus.</hi>
+            </p>
+            <figure>
+               <p>
+                  <hi>Dat ſuperne DE<g ref="char:V">Ʋ</g>S.</hi>
+               </p>
+               <figDesc>crown of England</figDesc>
+            </figure>
+            <p>
+               <hi>LONDON,</hi> Printed in the Year, 1689.</p>
+         </div>
+         <div type="notice">
+            <pb facs="tcp:51032:2"/>
+            <!-- PDF PAGE 99 -->
+            <pb facs="tcp:51032:2"/>
+            <!-- PDF PAGE 99 -->
+            <head>Advertiſement.</head>
+            <p>BEcauſe ſome may be offended at the Freedom and Plain<g ref="char:EOLhyphen"/>dealing uſed in theſe Papers, it is fit,</p>
+            <p n="1">
+               <hi>1.</hi> To <hi>acquaint</hi> them that it was thought neceſſary; partly to manifeſt the Juſtice of the Actions of the preſent King and Queen, the Parliament and Nation, in the late Revo<g ref="char:EOLhyphen"/>lution, and preſent Settlement; and partly for a greater purpoſe than that, <hi>viz.</hi> To manifeſt the Righteous Judg<g ref="char:EOLhyphen"/>ments of God upon that Family, for the Honour of God, and neceſſary Caution to them that come after, that they may be humbled under the mighty Hand of God, and uſe all good Means to avert the Courſe of thoſe Judgments from themſelves: and to awaken the Nation.</p>
+            <p n="2">
+               <hi>2.</hi> To <hi>admoniſh</hi> them to conſider, Whether their Offence be reaſonably taken, ſo long as we ſee ſo much, (not honeſt Freedom, but) Impious Licentiouſneſs, Preſumption againſt God, and Rude and Impudent Contempt of the Religion of the State, by Profanation of the Sacred Name of God, and notorious Violation of the Precepts of Chri<g ref="char:EOLhyphen"/>ſtianity, to be daily acted without controle. Were they pro<g ref="char:EOLhyphen"/>portionably ſenſible how far this Rudeneſs (or rather in<g ref="char:EOLhyphen"/>conſiderate Folly and Madneſs) exceeds any thing in theſe Papers, all their Reſentments would ſoon be converted into Admiration at their own Stupidity.</p>
+            <p>And for the Church and Churchmen, they who are not more concerned that ſuch things ſhould be, than that they ſhould be ſaid, <hi>Dici potuiſſe &amp; non potuiſe refelli,</hi> can<g ref="char:EOLhyphen"/>not certainly be, either good Men, or good Friends to either; and they who are in truth ſo concerned, will rather approve ſuch Plain-dealing, and put to their helping hand, than quarrel with them who do it.</p>
+         </div>
+      </front>
+      <body>
+         <div type="tract">
+            <pb facs="tcp:51032:3"/>
+            <!-- PDF PAGE 100 -->
+            <pb n="1" facs="tcp:51032:3"/>
+            <!-- PDF PAGE 100 -->
+            <head>To the King.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>THE Two Papers hereunto annexed, do ſo nearly concern Your Majeſty, that is, the Right of Your Government, and the happy Adminiſtration thereof, that it may be thought Duty, rather than Preſumption, to preſent them to You. Beſides, In each I have uſed that Freedom and Plain<g ref="char:EOLhyphen"/>dealing, which may need Your Protection; and there<g ref="char:EOLhyphen"/>fore having done it upon the ſolid grounds of Truth and Righteouſneſs, and for the Publick Good, if it be fit for You to afford it, it is but reaſonable for me to crave it.</p>
+            <p>The <hi>one</hi> in the <hi>Socratick</hi> way of QUESTIONS UP<g ref="char:EOLhyphen"/>ON THE LATE REVOLUTIONS, leads gently to ſuch obvious and plain Concluſions as juſtifie the Actions of Your Self, and of all who have joyned with You in Your late great Undertakings and Acceſs to the Go<g ref="char:EOLhyphen"/>vernment.</p>
+            <p>The <hi>other</hi> in the plain way of Narrative and Obſer<g ref="char:EOLhyphen"/>vations, contains not only a neceſſary CAVEAT AGAINST FLATTERY AND PROPHANATION, but diſcovers and lays open the principal <hi>Errors in Government, and Miſcarriages,</hi> which have involved the laſt Race of Kings of this Nation in ſuch <hi>fatal Miſchiefs,</hi> as the World hath beheld with Admiration; and upon that occaſion opens a Proſpect into certain <hi>neceſſary Means
+<pb n="2" facs="tcp:51032:4"/>
+                  <!-- PDF PAGE 101 -->to make both Prince and People more happy</hi> for the future.</p>
+            <p>The <hi>Providence of God</hi> is exactly <hi>
+                  <g ref="char:V">Ʋ</g>niform</hi> in all Ages, though through the variety of the Actions of Men, and different Circumſtances thereof, it may ſome<g ref="char:EOLhyphen"/>times ſeem to unskilful Spectators various. The <hi>Jews</hi> were once <hi>the Peculiar People of God,</hi> and as ſuch were under a Peculiar Divine <hi>Regimen:</hi> But they having cor<g ref="char:EOLhyphen"/>rupted themſelves, and withſtood all the Methods of Providence for their Reformation, and being therefore rejected, the <hi>Chriſtians</hi> ſucceed in that State and Pri<g ref="char:EOLhyphen"/>viledge: And accordingly we may obſerve the <hi>like Methods of Providence</hi> in the Occurrences of each.</p>
+            <p>The due conſideration of the <hi>Sacred Hiſtory</hi> of the <hi>Jews</hi> will open a Proſpect into the Myſteries and ſe<g ref="char:EOLhyphen"/>cret Providential Diſpoſal of the <hi>Parallel Occurrences of this Nation in this Age;</hi> and both compared and well conſidered exhibit a plain Repreſentation and Pattern of what is to be avoided, what to be done, to make all Kings and Queens, and the whole Nation, for the future more happy in their Government.</p>
+            <p>It pleaſed God by his Providence to give unto Your Great Grandfather, King <hi>James,</hi> an <hi>Extraordinary Deli<g ref="char:EOLhyphen"/>verance</hi> in the beginning of his Reign: And he hath given to Your ſelf as <hi>Extraordinary Succeſs,</hi> and (be<g ref="char:EOLhyphen"/>yond Your expectation) brought You to the Throne. Such <hi>Extraordinary Acts of Providence</hi> do always na<g ref="char:EOLhyphen"/>turally produce <hi>Special Obligation</hi> of Gratitude and Fide<g ref="char:EOLhyphen"/>lity, and of Subſervience to ſome <hi>Special End and De<g ref="char:EOLhyphen"/>ſign,</hi> apparent enough by ſome Indications in the Courſe of that Providence, to ſuch as duly apply themſelves to obſerve and conſider it.</p>
+            <p>
+               <hi>Miſcarriage</hi> in ſuch a caſe is ſometimes fatal; but always involves and entangles the Party in a labyrinth of Troubles and Difficulties; out of which many do never extricate themſelves; though moſt have ſpace, and
+<pb n="3" facs="tcp:51032:4"/>
+               <!-- PDF PAGE 101 -->many fair Opportunities, Invitations, internal Motions, and external Motives to correct their Errors before it be too late. This was the caſe of King <hi>James,</hi> his Son, and both his Grandſons; who ſat upon the Throne but <hi>four</hi> Succeſſions, and but <hi>three</hi> Generations.</p>
+            <p>But a Prudent, Faithful and Grateful <hi>Obedience</hi> to the Will of God, and <hi>Subſervience</hi> to ſuch Special End and Deſign, is uſually not only very ſuccesful in that ſpecial matter, but moreover for the moſt part pro<g ref="char:EOLhyphen"/>cures univerſal Proſperity and Happineſs to that Per<g ref="char:EOLhyphen"/>ſon in all things, which are not hindered by ſome particular Miſcarriage. And this I do heartily wiſh may be the caſe of Your Self and Your Royal Conſort.</p>
+            <p>Their <hi>Miſcarriages,</hi> and the unhappy <hi>Confequences</hi> thereof, are <hi>Obligatory Cautions</hi> to You, not only as <hi>Common Examples,</hi> but as Examples of Your own, and Your immediate <hi>Predeceſſors,</hi> to whom You ſucceed in Authority; and more yet, Examples of Your <hi>Progeni<g ref="char:EOLhyphen"/>tors,</hi> from whom by the Mother You are perſonally deſcended; a <hi>ſpecial Caution</hi> of great importance for Your greater <hi>Circumſpection,</hi> leſt by the ſame or the like Miſcar<g ref="char:EOLhyphen"/>riages You enter into <hi>Society or Communion of their Guilt,</hi> and the fatal Judgments decreed for the ſame.</p>
+            <p>The Original of their Miſcarriages were committed againſt the two great Branches of that <hi>Righteouſneſs,</hi> by which the Throne is Eſtabliſhed, <hi>Religion</hi> towards God, and Juſtice toward Men, by King <hi>James</hi> the Firſt: Firſt, by <hi>
+                  <g ref="char:V">Ʋ</g>nfaithfulneſs</hi> to that Providence, which had given him ſo great a Deliverance, deſerting his Call, forſaking his Dependance upon God; and Recourſe for his Security to Worldly Wiſdom and Policy. Secondly, by <hi>Profanation,</hi> or abuſe of Religion to ſuch Policies: 1. For his Security, by Illegal Indulgence and Favour at home, and unhappy Alliance abroad with Papiſts. 2. For the Advancing of his affected Prerogative and
+<pb n="4" facs="tcp:51032:5"/>
+               <!-- PDF PAGE 102 -->Abſoluteneſs above Law, by Diſpoſing of Eccleſiaſtical Benefices and Preferments, with more or no leſs regard to that, than to the proper Ends of that ſacred Employment, and thereby encouraging Flatterers, and turning the Church into a Faction. 3. By <hi>Diſcouraging and Oppreſ<g ref="char:EOLhyphen"/>ſing true Piety and Devotion</hi> to God, and Conſciencious Obſervance of his Laws, (by reproachful Names of <hi>Puritans</hi> and <hi>Preciſians,</hi> and by that impious and abominable project of the Book of Sports;) and encouraging Formality and the External Pomp of the Church, to gratifie that Faction. And for <hi>Injuſtice</hi> I have already named the root of it, Affectation of un<g ref="char:EOLhyphen"/>limited Prerogative and Abſoluteneſs, which produced more Illegal Proceedings and unjuſt Actions, than can conveniently be enumerated here in particular; and beſides, ſuch another Faction in the State. Theſe, like the Wicked Policies of <hi>Jeroboam,</hi> ſtuck ſo cloſe to his Houſe, and ſo prevailed in his Poſterity, that they pro<g ref="char:EOLhyphen"/>duced at length the like unhappy Conſequences to them.</p>
+            <p>And though it can hardly be imagined, that ſo Wiſe, Vertuous and Generous a Prince as Your Self, ſhould ever fall, eſpecially after ſuch Examples of Caution, into ſuch Errors and Miſcarriages, ſo contrary to Your own Publick Declaration, and to the avowed Ends of Your Expediti<g ref="char:EOLhyphen"/>on: yet if we conſider how many Eminent Perſons, who ſeemed to have been deſigned for Great Matters, and have been carried on a great way by a very propitious Providence, have notwithſtanding, by ſome unhappy Miſcarriage, or Neglect of the Opportunity put into their Hands, interrupted the Courſe of that Favourable Providence, and been deſerted by it; it will appear that the Caution is not unreaſonable.</p>
+            <p>And it will appear the more reaſonable, if we conſi<g ref="char:EOLhyphen"/>der firſt, The <hi>ſubtile inſinuating and prolifick Nature of Sin;</hi> and from what ſmall Beginnings it inſenſibly grows
+<pb n="5" facs="tcp:51032:5"/>
+               <!-- PDF PAGE 102 -->up to a full Maturity. Whereof we have very remarkable Examples in the great perſons before mentioned: How indulgence to Papiſts in King <hi>James</hi> the Firſt, came at laſt to ſuch Zeal for Popery in King <hi>James</hi> the Second, as loſt him his Kingdom; How Contempt of Preciſe<g ref="char:EOLhyphen"/>neſs in King <hi>James</hi> the firſt, came at laſt to direct no<g ref="char:EOLhyphen"/>torious Immorality in both his Grandſons, and in<g ref="char:EOLhyphen"/>fected the Nation; and the like. 2. That every <hi>Oppor<g ref="char:EOLhyphen"/>tunity</hi> of doing good, is an <hi>Obligation</hi> to do it: but every Special and Extraordinary Opportunity and Advantage, a <hi>Special Obligation</hi> of Subſervience to the Providence of God upon that occaſion; and ſuch an Obligation as is never neglected by any Man without Loſs, Trouble, or ſome great Miſchief to himſelf.</p>
+            <p n="3">3. And yet the more reaſonable ſtill will it appear, if we further conſider the <hi>Great Obligations,</hi> which that extraordinary Providence, which hath conducted you, and the Things, to which it hath led You, do neceſſarily infer, both for Caution, and Action.</p>
+            <p>God, by Your Hand, as his viſible Inſtrument, but indeed by his own Inviſible Power and Miniſters, hath driven out Popery and Arbitrarineſs before You; ſubjected a formidable Army, much more conſiderable than Your own, unto You; and brought You with an eaſy Courſe to the Adminiſtration of the Publick Affairs of the Nation. And thus far all is well. But here we come to a Cri<g ref="char:EOLhyphen"/>tical Point, and of ſome danger: 1. Leſt it be thought that all is done, and nothing more remaining: which might produce an unhappy Neglect, through Non-at<g ref="char:EOLhyphen"/>tendance to Your Calling, and to the further Deſigns of Providence; and that a Relapſe of all again. 2. Leſt we fall into the Old unhappy Error, through the Fallacies of that Spurious Wiſdom of the World: For though there be now no temptation to any Politick Compliance with Papiſts, yet are there two other Nations of kin to them, which muſt be ſubdued, and all Leagues and Com<g ref="char:EOLhyphen"/>pliance
+<pb n="6" facs="tcp:51032:6"/>
+               <!-- PDF PAGE 103 -->with them avoided, the Debauched on the one hand, and the Factious on the other, (though the De<g ref="char:EOLhyphen"/>bauched are as morally Factious as any) But by <hi>Factions,</hi> I intend here as well thoſe Zealots for the Church of <hi>En<g ref="char:EOLhyphen"/>gland,</hi> who are really ſuch (as many are in a high degree) as others who are ſuch for their ſeveral Parties.</p>
+            <p>The true and effectual way <hi>to allay and extinguiſh the preſent Factions,</hi> is very plain, if we do but conſider the <hi>Cauſes and Occaſions</hi> of them: which were principally the <hi>Princes Favours</hi> partially diſpenſed, and <hi>Church-Pre<g ref="char:EOLhyphen"/>ferments</hi> accordingly diſpoſed, and <hi>factious Acts of Par<g ref="char:EOLhyphen"/>liament.</hi> It is now known, and believed by Men of good intelligence, that not only the then D. of <hi>York,</hi> but K. <hi>Charles</hi> 2. alſo, were intangled in Popery before their Return into <hi>England.</hi> And it is therefore not to be queſtion'd, but their Counſels, and the Parliament it ſelf, being at firſt under a tranſport, and after corrupted by Penſions and Expectations, were through their Means influenced by the crafty and buſy Romiſh Agents; who by the ſame Means did both promote their own Deſigns, and inſinuate themſelves into Favour. They did really deſire to have the King abſolute: for a ſingle perſon, they knew, was more eaſy to be dealt with, than a number of Men in Parliament: They did really deſire very ſtrict Terms of Conformity and Severity againſt Proteſtant Diſſenters to be enacted: for this they foreſaw would the more effectually divide the Church and Nation, and ſo much the more weaken each part, and give them advan<g ref="char:EOLhyphen"/>tage againſt either, as they had occaſion. Theſe were both of them plauſible Pretences. And the Impreſſions of both are very viſible in divers Acts of Parliament, eſ<g ref="char:EOLhyphen"/>pecially thoſe which concern Uniformity, Conventicles, Corporations and the Militia. If therefore upon due conſideration of this notable Abuſe and Impoſture, thoſe undermining Acts were all repealed; all unneceſſary Terms of Conformity, never required in the ancient
+<pb n="7" facs="tcp:51032:6"/>
+               <!-- PDF PAGE 103 -->Church, diſcharged; and things were better ſetled upon a New (or rather the true Antient) Foundation, more agree<g ref="char:EOLhyphen"/>able, in the Church, to the Nature of Chriſtianity; and in the State, to the true Engliſh Conſtitution; the Factions would eaſily be cur'd by Your Princely Wiſdom and Mo<g ref="char:EOLhyphen"/>deration.</p>
+            <p>Concerning <hi>Debauchery</hi> I have ſaid ſo much in the latter of theſe Papers, that I need ſay the leſs here: But this is moſt proper for this place: Whatever Senſual Men may think, it was not the Power of Your Arms, nor the Concurrence of the Nobility and Gentry with You, which made Your <hi>Succeſs</hi> ſo Great &amp; Extraordinary beyond all Expectation. But it was the <hi>Preſence of certain Invi<g ref="char:EOLhyphen"/>ſible Powers,</hi> and <hi>a Secret Divine Majeſty,</hi> (far beyond that of Crowns and Scepters,) communicated to You, (as is frequent with vertuous Men in juſt Undertakings agree<g ref="char:EOLhyphen"/>able to the Deſigns of the Divine Providence,) which made all yield, and give Place, before You. If theſe be provoked to withdraw or deſert You, (which may be by Your Neglect or deſerting their Conduct and the Ser<g ref="char:EOLhyphen"/>vice to which they lead You, or by Indulging any wick<g ref="char:EOLhyphen"/>edneſs or Profanation in Your ſelf, or about You, or in Your power to reform; for they are Holy Spirits in your caſe imployed upon a Holy work and deſign;) Your Strength will ſuddainly be gone, You will become like other Men, all things will be at a ſtand, go heavily or croſs with You, and if You ſee not Your Error in time, and amend it, You will by degrees be wholly deſerted and left naked.</p>
+            <p>And here it may be fit, and I hope without offence to Your Majeſty, to offer to Your Conſideration, whether there may not have been <hi>ſome Fault</hi> already committed in this reſpect, and <hi>the Courſe of Providence,</hi> which moved ſo ſmoothly and effectually before, be not ſince become thereby more ſlow and <hi>retarded.</hi> And the reaſon is this: There was long ſince <hi>a Paper</hi> put into your hand concerning this matter; and the Care of it, that it
+<pb n="8" facs="tcp:51032:7"/>
+               <!-- PDF PAGE 104 -->might not miſcarry through Multiplicity of Buſineſs (for it was then a buſy time) or Politick Conſiderations, not long after recommended to one ſpecially obliged to be concerned for ſuch matters: but it ſeems to have met with no favourable promotion. But our Streets are ſtill filled, in the day time, with horrid profane Swearing; and in the night, with laſcivious Negotiations: and all kind of Debauchery is ſtill as impudent and rampant as ever, without controll. And agreeable thereunto the Courſe of our Affairs ſeems ever ſince in ſome things very ſlow, in ſome ſtationary, and in others plainly retrograde. A parallel adjudged caſe in the Prophet <hi>Haggai</hi> may direct in the Examination and Reſolution of this.</p>
+            <div type="summary">
+               <opener>
+                  <salute>SIR,</salute>
+               </opener>
+               <p>If Your Zeal for the Honor and Service of God in theſe things, and others to which You are directed, not proper here to be particularly mentioned, be not an<g ref="char:EOLhyphen"/>ſwerable to the Extraordinary Favours and Deſigns of Providence, I dare be bold to ſay, You will ſuffer an an<g ref="char:EOLhyphen"/>ſwerable Diminution of Your Majeſty: But if You do with all Fidelity and Reſolution attend to Your Call, and follow that Divine Conduct, it will infallibly lead You to Great Honour and Satisfaction here, and Eternal Hap<g ref="char:EOLhyphen"/>pineſs hereafter. Which that You may, is the only End of this plain Diſcourſe, and for this End I ſhall in all things endeavour to approve my ſelf</p>
+               <closer>
+                  <signed>Your Obedient and moſt Faithful Subject and Servant.</signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
